@@ -1,0 +1,12 @@
+pre-fix notation (in fix means 3 + 4)
+
+negative powers arent working correctly (2^-2 = 1/4)
+
+easier way to make random range 
+
+range from min to max
+
+range = max - min + 1 //how many numbers
+
+rand % max + range //always in range
+
